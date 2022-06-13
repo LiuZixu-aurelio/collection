@@ -1,0 +1,53 @@
+<template>
+  <div @click="openweb">
+    <img :src="logo" alt="无法显示">
+    <span>{{msg}}</span>
+  </div>
+</template>
+
+<script>
+
+export default {
+  name: 'Card',
+  data: function(){
+    return {
+
+      }
+  },
+  props: {
+    msg: String,
+    web: String,
+    logo: String
+  },
+  methods:{
+    openweb:function(){
+      window.open(this.web)
+    }
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+div {
+  width: 150px;
+  height: 46px;
+  padding: 8px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, .1)
+}
+img {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  top: 6px;
+  margin-left: 16px;
+}
+span {
+  position: relative;
+  top: 0px;
+  margin-left: 16px;
+  font-size: 20px;
+  font-weight: 800;
+}
+</style>
