@@ -10,23 +10,23 @@
       <Card class='card' msg="UI中国" web="https://www.ui.cn/" logo="https://www.ui.cn/favicon.ico"/>
       <Card class='card' msg="Color Hunt" web="https://colorhunt.co/" logo="https://colorhunt.co/img/colorhunt-favicon.svg?2"/>
       <Card class='card' msg="mapbox" web="https://api.mapbox.com/styles/v1/mapbox/light-v10.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA#13.52/47.50887/19.08254" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
-      <Card class='card' msg="样机世界" web="https://www.mockupworld.co/all-mockups/" logo="https://www.mockupworld.co/wp-content/uploads/fbrfg/favicon.ico"/>
-      <Card class='card' msg="插画 blush" web="https://blush.design/zh-CN?ref=producthunt" logo="https://blush.design/favicon-32x32.png"/>
-      <Card class='card' msg="3d插画" web="https://3ddd.casa/" logo="https://3ddd.casa/img/favicon.png"/>
+      <Card class='card' msg="样机世界" web="https://www.mockupworld.co/all-mockups/" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
+      <Card class='card' msg="插画 blush" web="https://blush.design/zh-CN?ref=producthunt" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
+      <Card class='card' msg="3d插画" web="https://3ddd.casa/" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
       <Card class='card' msg="觅元素" web="http://www.51yuansu.com/" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
-      <Card class='card' msg="照片 500px" web="https://500px.com/popular" logo="https://500px.com/favicon.ico"/>
+      <Card class='card' msg="照片 500px" web="https://500px.com/popular" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
       
       <h2>图标</h2>
-      <Card class='card' msg="tablericons " web="https://tablericons.com/" logo="https://tablericons.com/favicon.png"/>
+      <Card class='card' msg="tablericons " web="https://tablericons.com/" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
       <Card class='card' msg="remixicon " web="https://remixicon.com/" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
-      <Card class='card' msg="iconpark " web="https://iconpark.oceanengine.com/official" logo="https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg"/>
+      <Card class='card' msg="iconpark " web="https://iconpark.oceanengine.com/official" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
       <Card class='card' msg="iconfont " web="https://www.iconfont.cn/" logo="https://img.alicdn.com/favicon.ico"/>
 
 
       <h2>教程&文档</h2>
-      <Card class='card' msg="blender" web="https://docs.blender.org/manual/zh-hans/3.2/" logo="https://docs.blender.org/manual/zh-hans/3.2/_static/favicon.ico"/>
-      <Card class='card' msg="figma 开发者" web="https://www.figma.com/plugin-docs/intro/" logo="https://www.figma.com/plugin-docs/img/favicon.ico"/>
-      <Card class='card' msg="threejs" web="https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene" logo="https://threejs.org/files/favicon_white.ico"/>
+      <Card class='card' msg="blender" web="https://docs.blender.org/manual/zh-hans/3.2/" logo="https://img.alicdn.com/favicon.ico"/>
+      <Card class='card' msg="figma 开发者" web="https://www.figma.com/plugin-docs/intro/" logo="https://img.alicdn.com/favicon.ico"/>
+      <Card class='card' msg="threejs" web="https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene" logo="https://img.alicdn.com/favicon.ico"/>
 
 
       <h2>设计规范</h2>

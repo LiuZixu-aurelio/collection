@@ -26,7 +26,7 @@
       <h2>教程&文档</h2>
       <Card class='card' msg="blender" web="https://docs.blender.org/manual/zh-hans/3.2/" logo="https://docs.blender.org/manual/zh-hans/3.2/_static/favicon.ico"/>
       <Card class='card' msg="figma 开发者" web="https://www.figma.com/plugin-docs/intro/" logo="https://www.figma.com/plugin-docs/img/favicon.ico"/>
-      <Card class='card' msg="threejs" web="https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene" logo="https://threejs.org/files/favicon_white.ico"/>
+      <Card class='card' msg="threejs" web="https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene" logo="https://img.alicdn.com/favicon.ico"/>
 
 
       <h2>设计规范</h2>
