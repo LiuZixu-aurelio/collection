@@ -14,7 +14,7 @@
       <Card class='card' msg="插画 blush" web="https://blush.design/zh-CN?ref=producthunt" logo="https://blush.design/favicon-32x32.png"/>
       <Card class='card' msg="3d插画" web="https://3ddd.casa/" logo="https://3ddd.casa/img/favicon.png"/>
       <Card class='card' msg="觅元素" web="http://www.51yuansu.com/" logo="https://www.51yuansu.com/favicon.ico"/>
-      <Card class='card' msg="照片 500px" web="https://500px.com.cn/" logo="https://pic.500px.me/images/favicon_n.ico"/>
+      <Card class='card' msg="照片 500px" web="https://500px.com/popular" logo="https://500px.com/favicon.ico"/>
       
       <h2>图标</h2>
       <Card class='card' msg="tablericons " web="https://tablericons.com/" logo="https://tablericons.com/favicon.png"/>
@@ -26,7 +26,7 @@
       <h2>教程&文档</h2>
       <Card class='card' msg="blender" web="https://docs.blender.org/manual/zh-hans/3.2/" logo="https://docs.blender.org/manual/zh-hans/3.2/_static/favicon.ico"/>
       <Card class='card' msg="figma 开发者" web="https://www.figma.com/plugin-docs/intro/" logo="https://www.figma.com/plugin-docs/img/favicon.ico"/>
-      <Card class='card' msg="threejs" web="https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene" logo="https://threejs.org/files/favicon.ico"/>
+      <Card class='card' msg="threejs" web="https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene" logo="https://threejs.org/files/favicon_white.ico"/>
       <Card class='card' msg="unity3d" web="https://docs.unity3d.com/cn/2022.1/Manual/UnityManual.html" logo="https://docs.unity3d.com/cn/2022.1/StaticFiles/images/favicons/apple-touch-icon.png"/>
 
 
@@ -34,7 +34,7 @@
       <Card class='card' msg="Ant Design" web="https://ant.design/" logo="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"/>
       <Card class='card' msg="Element" web="https://element-plus.gitee.io/zh-CN/#/zh-CN" logo="https://element-plus.gitee.io/apple-touch-icon.png"/>
       <Card class='card' msg="飞书" web="https://open.feishu.cn/document/uYjL24iN/ukjNzUjL5YzM14SO2MTN" logo="https://s3-imfile.feishucdn.com/static-resource/v1/1941d42c-fccc-44bb-bfcc-854d71b7ed3g"/>
-      <Card class='card' msg="material" web="https://www.material.io/" logo="https://www.material.io/static/assets/favicon.ico"/>
+      <Card class='card' msg="material" web="https://www.material.io/" logo="https://static.tdesign.tencent.com/favicon.ico"/>
       <Card class='card' msg="华为鸿蒙" web="https://developer.harmonyos.com/cn/design" logo="https://developer.harmonyos.com/assets/image/favicon.ico?v=202206062122"/>
       <Card class='card' msg="腾讯" web="https://tdesign.tencent.com/" logo="https://static.tdesign.tencent.com/favicon.ico"/>
       <Card class='card' msg="苹果" web="https://developer.apple.com/cn/design/" logo="https://developer.apple.com/apple-logo.svg"/>

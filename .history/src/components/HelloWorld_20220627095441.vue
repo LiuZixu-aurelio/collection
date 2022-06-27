@@ -34,7 +34,7 @@
       <Card class='card' msg="Ant Design" web="https://ant.design/" logo="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"/>
       <Card class='card' msg="Element" web="https://element-plus.gitee.io/zh-CN/#/zh-CN" logo="https://element-plus.gitee.io/apple-touch-icon.png"/>
       <Card class='card' msg="飞书" web="https://open.feishu.cn/document/uYjL24iN/ukjNzUjL5YzM14SO2MTN" logo="https://s3-imfile.feishucdn.com/static-resource/v1/1941d42c-fccc-44bb-bfcc-854d71b7ed3g"/>
-      <Card class='card' msg="material" web="https://www.material.io/" logo="https://www.material.io/static/assets/favicon.ico"/>
+      <Card class='card' msg="material" web="https://www.material.io/" logo="https://static.tdesign.tencent.com/favicon.ico"/>
       <Card class='card' msg="华为鸿蒙" web="https://developer.harmonyos.com/cn/design" logo="https://developer.harmonyos.com/assets/image/favicon.ico?v=202206062122"/>
       <Card class='card' msg="腾讯" web="https://tdesign.tencent.com/" logo="https://static.tdesign.tencent.com/favicon.ico"/>
       <Card class='card' msg="苹果" web="https://developer.apple.com/cn/design/" logo="https://developer.apple.com/apple-logo.svg"/>
