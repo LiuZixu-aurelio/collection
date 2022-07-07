@@ -17,20 +17,23 @@
       <Card class='card' msg="照片 500px" web="https://500px.com.cn/" logo="https://pic.500px.me/images/favicon_n.ico"/>
       <Card class='card' msg="字由" web="https://www.hellofont.cn/" logo="https://www.hellofont.cn/favicon.ico"/>
 
+      <h2>3d模型</h2>
+      <Card class='card' msg="sketchfab" web="https://sketchfab.com/3d-models?features=downloadable&sort_by=-likeCount" logo="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/2f53b6d625305dad5f61e53c5b3d8125-v2.png"/>
+      <Card class='card' msg="turbosquid" web="https://www.turbosquid.com/" logo="https://www.turbosquid.com/favicon-32x32.png"/>
+      
+      
       <h2>图标</h2>
-      <Card class='card' msg="tablericons" web="https://tablericons.com/" logo="https://tablericons.com/favicon.png"/>
-      <Card class='card' msg="remixicon" web="https://remixicon.com/" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
-      <Card class='card' msg="iconpark" web="https://iconpark.oceanengine.com/official" logo="https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg"/>
-      <Card class='card' msg="iconfont" web="https://www.iconfont.cn/" logo="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico"/>
-      <Card class='card' msg="icons8" web="https://icons8.com/animated-icons/color" logo="https://maxst.icons8.com/vue-static/landings/primary-landings/favs/icons8_fav_32%C3%9732.png"/>
+      <Card class='card' msg="tablericons " web="https://tablericons.com/" logo="https://tablericons.com/favicon.png"/>
+      <Card class='card' msg="remixicon " web="https://remixicon.com/" logo="https://static-assets.mapbox.com/branding/favicon/v1/favicon.ico?v=gAd4JjrGWl"/>
+      <Card class='card' msg="iconpark " web="https://iconpark.oceanengine.com/official" logo="https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg"/>
+      <Card class='card' msg="iconfont " web="https://www.iconfont.cn/" logo="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico"/>
 
 
       <h2>教程&文档</h2>
       <Card class='card' msg="blender" web="https://docs.blender.org/manual/zh-hans/3.2/" logo="https://docs.blender.org/manual/zh-hans/3.2/_static/favicon.ico"/>
-      <Card class='card' msg="figma开发" web="https://www.figma.com/plugin-docs/intro/" logo="https://www.figma.com/plugin-docs/img/favicon.ico"/>
+      <Card class='card' msg="figma 开发者" web="https://www.figma.com/plugin-docs/intro/" logo="https://www.figma.com/plugin-docs/img/favicon.ico"/>
       <Card class='card' msg="threejs" web="https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene" logo="https://threejs.org/files/favicon.ico"/>
       <Card class='card' msg="unity3d" web="https://docs.unity3d.com/cn/2022.1/Manual/UnityManual.html" logo="https://docs.unity3d.com/cn/2022.1/StaticFiles/images/favicons/apple-touch-icon.png"/>
-      <Card class='card' msg="菜鸟开发" web="https://www.runoob.com/" logo="https://static.runoob.com/images/favicon.ico"/>
 
 
       <h2>设计规范</h2>
@@ -47,14 +50,6 @@
       <Card class='card' msg="语雀 b端" web="https://www.yuque.com/sardine/lvdo4s" logo="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*CUIoT4xopNYAAAAAAAAAAABkARQnAQ"/>
       <Card class='card' msg="石墨 b端" web="https://shimo.im/docs/kcndgcoA0skbv6Jh/read" logo="https://as.smvm.cn/from_qbox/favicon.ico"/>
       <Card class='card' msg="酸梅干超人" web="http://www.supermancall.com/" logo="https://as.smvm.cn/from_qbox/favicon.ico"/>
-
-      <h2>3d素材</h2>
-      <Card class='card' msg="sketchfab" web="https://sketchfab.com/3d-models?features=downloadable&sort_by=-likeCount" logo="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/2f53b6d625305dad5f61e53c5b3d8125-v2.png"/>
-      <Card class='card' msg="turbosquid" web="https://www.turbosquid.com/" logo="https://www.turbosquid.com/favicon-32x32.png"/>
-      <Card class='card' msg="shapefest" web="https://www.shapefest.com/" logo="https://uploads-ssl.webflow.com/5f0e589021058152a1d327da/5f162b55f04b5837d71a5fce_Favicon%20Copy.png"/>
-      <Card class='card' msg="cgtrader" web="https://www.cgtrader.com/" logo="https://www.cgtrader.com/favicon.ico"/>
-      <Card class='card' msg="hdrihaven" web="https://hdrihaven.com/hdris/category/?c=all" logo="https://polyhaven.com/favicon.ico"/>
-
 
       <h2>有趣网站</h2>
       <Card class='card' msg="颜色找网站" web="https://reeoo.com/" logo="https://iphone.reeoo.com/assets/favicon.ico"/>

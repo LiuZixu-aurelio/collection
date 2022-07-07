@@ -30,7 +30,7 @@
       <Card class='card' msg="figma开发" web="https://www.figma.com/plugin-docs/intro/" logo="https://www.figma.com/plugin-docs/img/favicon.ico"/>
       <Card class='card' msg="threejs" web="https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene" logo="https://threejs.org/files/favicon.ico"/>
       <Card class='card' msg="unity3d" web="https://docs.unity3d.com/cn/2022.1/Manual/UnityManual.html" logo="https://docs.unity3d.com/cn/2022.1/StaticFiles/images/favicons/apple-touch-icon.png"/>
-      <Card class='card' msg="菜鸟开发" web="https://www.runoob.com/" logo="https://static.runoob.com/images/favicon.ico"/>
+      <Card class='card' msg="runoob开发集合" web="https://www.runoob.com/" logo="https://static.runoob.com/images/favicon.ico"/>
 
 
       <h2>设计规范</h2>

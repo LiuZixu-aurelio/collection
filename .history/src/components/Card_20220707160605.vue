@@ -30,7 +30,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .cardin {
-  width: 190px;
+  width: 200px;
   height: 46px;
   padding: 8px;
   border-radius: 8px;
